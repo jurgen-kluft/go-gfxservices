@@ -1,0 +1,37 @@
+#ignore all files
+*.*
+
+#except the following files
+!.gitignore
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+!*.inl
+
+!*.build
+
+!*.go
+!*.md
+!*.lua
+
+!*.cs
+!*.csproj
+!*.resx
+
+!*.hlsl
+!*.fragment
+!*.rs
+!*.ps
+!*.vs
+!*.dds
+
+!*.cmd
+!*.set
+!*.mtl
+!*.mdl
+
+!*.ini
+!*.bat
+
+#except the following folders
