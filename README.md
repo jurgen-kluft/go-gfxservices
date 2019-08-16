@@ -1,21 +1,4 @@
-# xgfx
-
-- Dear imgUI
-
-- Software Renderer
-  - Model loading (glTF)
-  - Camera
-  - Matrix / Vector
-  - Vertex Buffer
-  - Index Buffer
-  - Vertex and Pixel Shaders
-  - Rasterizer
-  - Easier to run on any platform:
-    - Windows
-    - Mac
-    - PS4
-    - Xbox
-    - Switch
+# HTTP Service
 
 ## Graphics Services
 
